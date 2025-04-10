@@ -1,17 +1,18 @@
 # Libraries
 *.lvlibp
 *.llb
-
+*.IPhone
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
-
+*.android
 # Executables
 *.exe
-
+*.android
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+*.IPhone
