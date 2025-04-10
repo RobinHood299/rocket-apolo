@@ -1,2 +1,2 @@
 # rocket-apolo
-Situs Ini Diciptakan Untuk Menyimpan Data-Data Penting Dan Lainnya
+This Site Was Created To Store Important Data And Others
